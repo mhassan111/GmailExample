@@ -71,7 +71,7 @@ public class MainActivity extends Activity
     private static final String BUTTON_TEXT = "Call Gmail API";
     private static final String PREF_ACCOUNT_NAME = "accountName";
     private static final String[] SCOPES = {GmailScopes.GMAIL_LABELS, GmailScopes.GMAIL_READONLY};
-
+    // some changes
 
     /**
      * Create the main activity.
